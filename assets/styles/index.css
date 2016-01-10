@@ -1,0 +1,49 @@
+body {
+	background: #666b8f
+}
+
+h1 {
+	font-size: 3em;
+	color: #ffffff;
+	font-family: "Lato", sans-serif;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 2em;
+	color: #ffffff;
+	font-family: "Lato", "Helvetica", Arial, sans-serif;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	color: #ffffff;
+	font-family: "Lato", "Helvetica", Arial, sans-serif;
+
+}
+
+.center {
+	display: block;
+	margin: 0 auto;
+}
+
+.logo {
+	height: 15%;
+	width: 15%;
+}
+
+.text-center {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.text-large {
+	font-size: 1.5em;
+}
+
+.unstyled {
+	list-style-type: none;
+}
